@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "elasticsearch-go/query"
+	. "./query"
 )
 
 func TestTermQuery(t *testing.T) {
